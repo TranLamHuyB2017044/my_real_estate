@@ -107597,7 +107597,7 @@ i.ps(0,B.Hm)
 i=n.d
 i.push(new A.Hi(m,!0))
 n.a6()
-h=A.ex("http://127.0.0.1:5000/chatbot")
+h=A.ex("https://dialogflow-3qwj3fu0n-tranlamhuyb2017044s-projects.vercel.app/chatbot")
 g=t.N
 f=A.a1(["Content-Type","application/json"],g,g)
 s=7
